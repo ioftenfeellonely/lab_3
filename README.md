@@ -84,3 +84,10 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
+Результат виконання та підтвердження працездатності
+
+<img width="622" height="414" alt="image" src="https://github.com/user-attachments/assets/83e03113-d9ad-4158-9397-e24c026355b9" />
+
+<img width="717" height="210" alt="image" src="https://github.com/user-attachments/assets/c15c1989-31a0-46ce-8667-8543d330c615" />
+
